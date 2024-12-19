@@ -12,7 +12,7 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           printf("Kamyona binmeden hemen önce ormandan bir çocuk sesi geldi. Çocuk tehlikede gibiydi karanlık olduğu için arabaya dönüp el feneri aldım ve sese doğru gittim. Telefonumu açıp polisi aradım.\n") //melike yilmaz
           //Ayşe Nur Karakoyunlu
           //elif zeren boyraz
-          //İbrahim TEK
+          printf("Tam polisi aradığım sırada beklenmedik bir olay yaşandı.")//İbrahim TEK
           //Sıla Kuzan
           //Emine Zehra Köseoğlu
           //Muhammed eren zengel
